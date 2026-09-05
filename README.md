@@ -5,7 +5,11 @@
 
 The procedure described in this article involves uploading info to a LLM service. Please check your contract with the service and carefully use it. Author of this article is not a subject of responsibility for any loss (e.g. leakage of info) regarding to the content of this ariticle.
 
-Qiita article : 
+## ライセンス License
+CC-BY-4.0 Akito Davis Kawamura (@aDAVISk)
+The attribution can be shortened as @aDAVISk, A.D. Kawamura (@aDAVISk), or Akito D. Kawamura (@aDAVISk)
 
+## Qiita article and Demo
+Qiita 
 Demo https://github.com/aDAVISk/AI_DEMO/raw/refs/heads/main/AI_TaskManagement_demo_low.mp4
 
