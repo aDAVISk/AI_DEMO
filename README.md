@@ -7,6 +7,7 @@ The procedure described in this article involves uploading info to a LLM service
 
 ## ライセンス License
 CC-BY-4.0 Akito Davis Kawamura (@aDAVISk)
+
 The attribution can be shortened as @aDAVISk, A.D. Kawamura (@aDAVISk), or Akito D. Kawamura (@aDAVISk)
 
 ## Qiita article and Demo
