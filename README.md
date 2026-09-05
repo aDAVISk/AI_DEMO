@@ -11,7 +11,7 @@ CC-BY-4.0 Akito Davis Kawamura (@aDAVISk)
 The attribution can be shortened as @aDAVISk, A.D. Kawamura (@aDAVISk), or Akito D. Kawamura (@aDAVISk)
 
 ## Qiita article and Demo
-Qiita 
+Qiita https://qiita.com/aDAVISk/items/8eb8a7c47b5be0fd6688
 
 Demo https://github.com/aDAVISk/AI_DEMO/raw/refs/heads/main/AI_TaskManagement_demo_low.mp4
 
