@@ -12,5 +12,6 @@ The attribution can be shortened as @aDAVISk, A.D. Kawamura (@aDAVISk), or Akito
 
 ## Qiita article and Demo
 Qiita 
+
 Demo https://github.com/aDAVISk/AI_DEMO/raw/refs/heads/main/AI_TaskManagement_demo_low.mp4
 
